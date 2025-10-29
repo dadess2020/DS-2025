@@ -1,6 +1,5 @@
 <img src="Imagedadess2025.jpg" style="height:464px;margin-right:432px"/>
 DADESS ANASS
-
 # Rapport sur le PIB mondial 2024
 
 ## Croissance économique mondiale
