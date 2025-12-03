@@ -1,3 +1,7 @@
+DADESS ANASS CAC 1 
+<img src="WhatsApp Image 2025-12-03 at 14.25.26.jpeg" style="height:464px;margin-right:432px"/>
+
+
 # 📝 Compte rendu d’analyse — Dataset Amazon
 
 ## 1. 📥 Importation des données
