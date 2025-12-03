@@ -1,4 +1,4 @@
-<img src="WhatsApp Image 2025-12-03 at 14.25.26" style="height:464px;margin-right:432px"/>
+<img src="WhatsApp Image 2025-12-03 at 14.25.26.jpeg" style="height:464px;margin-right:432px"/>
 DADESS ANASS cac 1
 
 # Analyse Fictive du Dataset
