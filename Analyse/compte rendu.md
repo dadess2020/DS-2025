@@ -44,7 +44,7 @@ plus une piste est énergique, plus son niveau sonore est élevé.
 
 ### 📊 Illustration  
 *(Graphique fictif — régression linéaire)*  
-![Régression Linéaire](regression_lineaire.png)
+![Régression Linéaire](<img src="Capture d'écran 2025-12-03 141844.png" style="height:464px;margin-right:432px"/>)
 
 ---
 
@@ -64,7 +64,7 @@ P(hit=1) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 x)}}
 
 ### 📊 Illustration  
 *(Graphique fictif — régression logistique)*  
-![Régression Logistique](regression_logistique.png)
+![Régression Logistique](<img src="Capture d'écran 2025-12-03 141836.png" style="height:464px;margin-right:432px"/>)
 
 ---
 
